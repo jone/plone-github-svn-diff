@@ -89,7 +89,7 @@ def _compare(packages, targets):
             continue
 
         year = lastmodified[:4]
-        if name in pypi:
+        if name in pypi or 'Products.%s' % name in pypi:
             resultkey = 'released'
         else:
             resultkey = 'notreleased'

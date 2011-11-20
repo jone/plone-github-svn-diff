@@ -9,6 +9,7 @@
 - http://svn.plone.org/svn/archetypes/archetypes.memberdatastorage
 
 ## 2010
+- http://svn.plone.org/svn/archetypes/ATVocabularyManager
 - http://svn.plone.org/svn/archetypes/Products.ATExtensions
 - http://svn.plone.org/svn/archetypes/Products.PythonField
 - http://svn.plone.org/svn/archetypes/Products.TALESField
@@ -16,10 +17,19 @@
 - http://svn.plone.org/svn/archetypes/archetypes.schematuning
 
 ## 2009
+- http://svn.plone.org/svn/archetypes/Archetypes
 - http://svn.plone.org/svn/archetypes/Products.WorkflowField
 - http://svn.plone.org/svn/archetypes/archetypes.fieldtraverser
 - http://svn.plone.org/svn/archetypes/archetypes.ldapstorage
 - http://svn.plone.org/svn/archetypes/archetypes.rolefield
+
+## 2008
+- http://svn.plone.org/svn/archetypes/ATExtensions
+- http://svn.plone.org/svn/archetypes/Marshall
+- http://svn.plone.org/svn/archetypes/MimetypesRegistry
+- http://svn.plone.org/svn/archetypes/PortalTransforms
+- http://svn.plone.org/svn/archetypes/Relations
+- http://svn.plone.org/svn/archetypes/validation
 
 
 # not released on pypi
@@ -29,26 +39,16 @@
 - http://svn.plone.org/svn/archetypes/MoreFieldsAndWidgets
 - http://svn.plone.org/svn/archetypes/archetypes.pfgextender
 
-## 2010
-- http://svn.plone.org/svn/archetypes/ATVocabularyManager
-
 ## 2009
 - http://svn.plone.org/svn/archetypes/ATVocabularyManagerExample
 - http://svn.plone.org/svn/archetypes/ArcheBuilder
-- http://svn.plone.org/svn/archetypes/Archetypes
 - http://svn.plone.org/svn/archetypes/archetypes.fieldproxy
 - http://svn.plone.org/svn/archetypes/archetypes.sqlalchemystorage
 
 ## 2008
-- http://svn.plone.org/svn/archetypes/ATExtensions
 - http://svn.plone.org/svn/archetypes/ArchetypesTestUpdateSchema
 - http://svn.plone.org/svn/archetypes/Fate
-- http://svn.plone.org/svn/archetypes/Marshall
-- http://svn.plone.org/svn/archetypes/MimetypesRegistry
-- http://svn.plone.org/svn/archetypes/PortalTransforms
-- http://svn.plone.org/svn/archetypes/Relations
 - http://svn.plone.org/svn/archetypes/archetypes.layout
-- http://svn.plone.org/svn/archetypes/validation
 
 ## 2007
 - http://svn.plone.org/svn/archetypes/ArchXMLTool
