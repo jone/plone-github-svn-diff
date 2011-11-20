@@ -103,10 +103,12 @@ def _compare(packages, targets):
 
 
 def _printresult(result, prefixurl=''):
+    print 'This file lists packages living in subversion and not yet existing on github.'
+    print ''
     print '# released on pypi'
     for year in reversed(sorted(result['released'].keys())):
         names = result['released'][year]
-        print '##', year
+        print '## modified', year
         for name in sorted(names):
             print '-', prefixurl + name
         print ''
@@ -115,7 +117,7 @@ def _printresult(result, prefixurl=''):
     print '# not released on pypi'
     for year in reversed(sorted(result['notreleased'].keys())):
         names = result['notreleased'][year]
-        print '##', year
+        print '## modified', year
         for name in sorted(names):
             print '-', prefixurl + name
         print ''

@@ -1,5 +1,7 @@
+This file lists packages living in subversion and not yet existing on github.
+
 # released on pypi
-## 2011
+## modified 2011
 - ATSchemaEditorNG
 - CMFDynamicViewFTI
 - CMFFormController
@@ -580,7 +582,7 @@
 - zopyx.tinymceplugins.imgmap
 - zopyx.tinymceplugins.tinyautosave
 
-## 2010
+## modified 2010
 - ARFilePreview
 - AROfficeTransforms
 - ATFlashMovie
@@ -883,7 +885,7 @@
 - zest.social
 - zopyx.ecardsng
 
-## 2009
+## modified 2009
 - ATBiblioStyles
 - ATContentTypes
 - ATGoogleVideo
@@ -1062,7 +1064,7 @@
 - zest.stabilizer
 - zopeskel.doctools
 
-## 2008
+## modified 2008
 - ArchAddOn
 - CMFDiffTool
 - CMFEditions
@@ -1192,7 +1194,7 @@
 - zopyx.parallel_svn_externals_updater
 - zopyx.plone.cassandra
 
-## 2007
+## modified 2007
 - ATGoogleMaps
 - AdvancedQuery
 - CMFPublicator
@@ -1210,7 +1212,7 @@
 - tagger
 - takeaction
 
-## 2006
+## modified 2006
 - AutoRole
 - GeoLocation
 - Scriptaculous
@@ -1218,12 +1220,12 @@
 - geolocator
 - linktally
 
-## 2005
+## modified 2005
 - Annotations
 
 
 # not released on pypi
-## 2011
+## modified 2011
 - AROnlineDeskFile
 - ATCTAddons
 - ATMediaFile
@@ -1396,7 +1398,7 @@
 - upfront.versioning
 - valentine.gtranslate
 
-## 2010
+## modified 2010
 - ATAudio
 - ArcheCSV
 - BlueWebMail
@@ -1566,7 +1568,7 @@
 - zopyx.jqtouch
 - zopyx.tinymceplugins
 
-## 2009
+## modified 2009
 - ARMailServices
 - ATBiblioList
 - ATDataMerge
@@ -1772,7 +1774,7 @@
 - zopyx.multeventcalendar
 - zopyx.plone.archetypes_on_rdbms
 
-## 2008
+## modified 2008
 - ATAmazon
 - ATBiblioTopic
 - ATBlobField
@@ -1940,7 +1942,7 @@
 - win32binaries
 - z3schemabackports
 
-## 2007
+## modified 2007
 - ARDeadline
 - ATBookmarks
 - ATCSVImport
@@ -2108,7 +2110,7 @@
 - vux
 - wicked.migration
 
-## 2006
+## modified 2006
 - ATBackTalk
 - ATCTSyndication
 - ATContentSearch
@@ -2247,7 +2249,7 @@
 - wicked.quiki
 - zopemail
 
-## 2005
+## modified 2005
 - ATAsterisk
 - ATAudioCollection
 - ATImportTool
