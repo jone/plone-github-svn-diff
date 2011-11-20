@@ -47,6 +47,14 @@ def filter_packages_by_name(name_filter, packages):
     packages = filter(lambda item: name_filter(item[0]), packages)
     return dict(packages)
 
+
+def merge_packages(*lists):
+    packages = {}
+    for list_ in lists:
+        packages.update(list_)
+    return packages
+
+
 def _get_pypi_packages():
     url = 'http://pypi.python.org/simple/'
     response = urllib.urlopen(url)
@@ -91,7 +99,7 @@ def _printresult(result, prefixurl=''):
     print '# released on pypi'
     for year, names in result['released'].items():
         print '##', year
-        for name in names:
+        for name in sorted(names):
             print prefixurl + name
         print ''
 
@@ -99,7 +107,7 @@ def _printresult(result, prefixurl=''):
     print '# not released on pypi'
     for year, names in result['notreleased'].items():
         print '##', year
-        for name in names:
+        for name in sorted(names):
             print prefixurl + name
         print ''
 
