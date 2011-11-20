@@ -11,6 +11,12 @@ def todict(func):
     return _decorator
 
 
+def tolist(func):
+    def _decorator(*args, **kwargs):
+        return list(func(*args, **kwargs))
+    return _decorator
+
+
 @todict
 def github_list_repos_of_organisation(orgname):
     url = 'https://api.github.com/orgs/%s/repos' % orgname
@@ -55,6 +61,7 @@ def merge_packages(*lists):
     return packages
 
 
+@tolist
 def _get_pypi_packages():
     url = 'http://pypi.python.org/simple/'
     response = urllib.urlopen(url)

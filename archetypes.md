@@ -1,10 +1,5 @@
 # released on pypi
-
-# not released on pypi
 ## 2011
-- http://svn.plone.org/svn/archetypes/AGX-outdated
-- http://svn.plone.org/svn/archetypes/ArchGenXML
-- http://svn.plone.org/svn/archetypes/MoreFieldsAndWidgets
 - http://svn.plone.org/svn/archetypes/Products.AddRemoveWidget
 - http://svn.plone.org/svn/archetypes/Products.BrFieldsAndWidgets
 - http://svn.plone.org/svn/archetypes/Products.DataGridField
@@ -12,10 +7,8 @@
 - http://svn.plone.org/svn/archetypes/archetypes.configure
 - http://svn.plone.org/svn/archetypes/archetypes.markerfield
 - http://svn.plone.org/svn/archetypes/archetypes.memberdatastorage
-- http://svn.plone.org/svn/archetypes/archetypes.pfgextender
 
 ## 2010
-- http://svn.plone.org/svn/archetypes/ATVocabularyManager
 - http://svn.plone.org/svn/archetypes/Products.ATExtensions
 - http://svn.plone.org/svn/archetypes/Products.PythonField
 - http://svn.plone.org/svn/archetypes/Products.TALESField
@@ -23,14 +16,27 @@
 - http://svn.plone.org/svn/archetypes/archetypes.schematuning
 
 ## 2009
-- http://svn.plone.org/svn/archetypes/ATVocabularyManagerExample
-- http://svn.plone.org/svn/archetypes/ArcheBuilder
-- http://svn.plone.org/svn/archetypes/Archetypes
 - http://svn.plone.org/svn/archetypes/Products.WorkflowField
-- http://svn.plone.org/svn/archetypes/archetypes.fieldproxy
 - http://svn.plone.org/svn/archetypes/archetypes.fieldtraverser
 - http://svn.plone.org/svn/archetypes/archetypes.ldapstorage
 - http://svn.plone.org/svn/archetypes/archetypes.rolefield
+
+
+# not released on pypi
+## 2011
+- http://svn.plone.org/svn/archetypes/AGX-outdated
+- http://svn.plone.org/svn/archetypes/ArchGenXML
+- http://svn.plone.org/svn/archetypes/MoreFieldsAndWidgets
+- http://svn.plone.org/svn/archetypes/archetypes.pfgextender
+
+## 2010
+- http://svn.plone.org/svn/archetypes/ATVocabularyManager
+
+## 2009
+- http://svn.plone.org/svn/archetypes/ATVocabularyManagerExample
+- http://svn.plone.org/svn/archetypes/ArcheBuilder
+- http://svn.plone.org/svn/archetypes/Archetypes
+- http://svn.plone.org/svn/archetypes/archetypes.fieldproxy
 - http://svn.plone.org/svn/archetypes/archetypes.sqlalchemystorage
 
 ## 2008
