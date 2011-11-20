@@ -100,7 +100,7 @@ def _printresult(result, prefixurl=''):
     for year, names in result['released'].items():
         print '##', year
         for name in sorted(names):
-            print prefixurl + name
+            print '-', prefixurl + name
         print ''
 
     print ''
@@ -108,7 +108,7 @@ def _printresult(result, prefixurl=''):
     for year, names in result['notreleased'].items():
         print '##', year
         for name in sorted(names):
-            print prefixurl + name
+            print '-', prefixurl + name
         print ''
 
 
