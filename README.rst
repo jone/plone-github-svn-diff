@@ -8,8 +8,8 @@ on pypi. Each group is then subgrouped by the year of the last commit.
 
 **Results**
 
-* Plone repository -> `plone.md <plone.md>`_
-* Archetypes repository -> `archetypes.md <archetypes.md>`_
-* Collective repository -> `collective.md <collective.md>`_
+* Plone repository -> `plone.md <https://github.com/jone/plone-github-svn-diff/blob/master/plone.md>`_
+* Archetypes repository -> `archetypes.md <https://github.com/jone/plone-github-svn-diff/blob/master/archetypes.md>`_
+* Collective repository -> `collective.md <https://github.com/jone/plone-github-svn-diff/blob/master/collective.md>`_
 
 For comments / discussion, see `https://gist.github.com/1376303 <https://gist.github.com/1376303>`_
