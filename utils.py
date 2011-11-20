@@ -97,7 +97,8 @@ def _compare(packages, targets):
 
 def _printresult(result, prefixurl=''):
     print '# released on pypi'
-    for year, names in result['released'].items():
+    for year in reversed(sorted(result['released'].keys())):
+        names = result['released'][year]
         print '##', year
         for name in sorted(names):
             print '-', prefixurl + name
@@ -105,7 +106,8 @@ def _printresult(result, prefixurl=''):
 
     print ''
     print '# not released on pypi'
-    for year, names in result['notreleased'].items():
+    for year in reversed(sorted(result['notreleased'].keys())):
+        names = result['notreleased'][year]
         print '##', year
         for name in sorted(names):
             print '-', prefixurl + name

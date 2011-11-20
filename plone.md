@@ -4,33 +4,6 @@
 
 
 # not released on pypi
-## 2006
-- http://svn.plone.org/svn/plone/plone.app.contextualhelp
-
-## 2007
-- http://svn.plone.org/svn/plone/plone.app.dnd
-
-## 2008
-- http://svn.plone.org/svn/plone/plone.app.commenting
-- http://svn.plone.org/svn/plone/plone.app.localconf
-- http://svn.plone.org/svn/plone/plone.blocks
-- http://svn.plone.org/svn/plone/plone.clids
-- http://svn.plone.org/svn/plone/plone.commenting
-- http://svn.plone.org/svn/plone/plone.pony
-- http://svn.plone.org/svn/plone/plone.portlet.content
-- http://svn.plone.org/svn/plone/plone.portlet.contentcalendar
-
-## 2009
-- http://svn.plone.org/svn/plone/plone.app.folderui
-- http://svn.plone.org/svn/plone/plone.app.javascript
-- http://svn.plone.org/svn/plone/plone.buildbot
-- http://svn.plone.org/svn/plone/plone.exceptions
-- http://svn.plone.org/svn/plone/plone.formwidget.relations
-- http://svn.plone.org/svn/plone/plone.navigation
-- http://svn.plone.org/svn/plone/plone.principalsource
-- http://svn.plone.org/svn/plone/plone.sequencebatch
-- http://svn.plone.org/svn/plone/plone.z3ctable
-
 ## 2011
 - http://svn.plone.org/svn/plone/plone.aftertraverse
 - http://svn.plone.org/svn/plone/plone.app.cron
@@ -52,4 +25,31 @@
 - http://svn.plone.org/svn/plone/plone.formwidget.geolocation
 - http://svn.plone.org/svn/plone/plone.mail
 - http://svn.plone.org/svn/plone/plone.portlet.viewlet
+
+## 2009
+- http://svn.plone.org/svn/plone/plone.app.folderui
+- http://svn.plone.org/svn/plone/plone.app.javascript
+- http://svn.plone.org/svn/plone/plone.buildbot
+- http://svn.plone.org/svn/plone/plone.exceptions
+- http://svn.plone.org/svn/plone/plone.formwidget.relations
+- http://svn.plone.org/svn/plone/plone.navigation
+- http://svn.plone.org/svn/plone/plone.principalsource
+- http://svn.plone.org/svn/plone/plone.sequencebatch
+- http://svn.plone.org/svn/plone/plone.z3ctable
+
+## 2008
+- http://svn.plone.org/svn/plone/plone.app.commenting
+- http://svn.plone.org/svn/plone/plone.app.localconf
+- http://svn.plone.org/svn/plone/plone.blocks
+- http://svn.plone.org/svn/plone/plone.clids
+- http://svn.plone.org/svn/plone/plone.commenting
+- http://svn.plone.org/svn/plone/plone.pony
+- http://svn.plone.org/svn/plone/plone.portlet.content
+- http://svn.plone.org/svn/plone/plone.portlet.contentcalendar
+
+## 2007
+- http://svn.plone.org/svn/plone/plone.app.dnd
+
+## 2006
+- http://svn.plone.org/svn/plone/plone.app.contextualhelp
 
