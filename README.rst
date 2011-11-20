@@ -6,4 +6,10 @@ github or in another place.
 The results are grouped by packages released on pypi and those not released
 on pypi. Each group is then subgrouped by the year of the last commit.
 
-See results in plone.md, archetypes.md, collective.md.
+**Results**
+
+* Plone repository -> `plone.md <plone.md>`_
+* Archetypes repository -> `archetypes.md <archetypes.md>`_
+* Collective repository -> `collective.md <collective.md>`_
+
+For comments / discussion, see `https://gist.github.com/1376303 <https://gist.github.com/1376303>`_
